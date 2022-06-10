@@ -7,6 +7,3 @@ dependencies:
   - numpy
   - matplotlib
   - instaseis
-  - mpl_toolkits.basemap
-  - pycwt
-  - pandas 
