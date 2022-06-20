@@ -2,10 +2,10 @@ name: obspy-binder-example
 channels:
   - conda-forge
 dependencies:
-  - python =3
+  - python =3.8.5
   - obspy >=1.2.0
-  - numpy
-  - matplotlib
+  - numpy =1.21.5
+  - matplotlib =3.5.1
   - instaseis
   - pycwt
   - pandas 
